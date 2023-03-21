@@ -1,6 +1,10 @@
 # calculator-bmi
 
+### Diagram Arsitektur
+
 ![image](https://user-images.githubusercontent.com/90663373/226498552-a222884c-5c76-4528-983f-5a7d48c7a602.png)
+
+### Screenshot Aplikasi
 
 ![image](https://user-images.githubusercontent.com/90663373/226498709-2c0ee12e-8e3d-45af-8d78-f64c4a11c004.png)
 
