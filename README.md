@@ -6,7 +6,7 @@
 
 ### Screenshot Aplikasi
 
-![image](https://user-images.githubusercontent.com/90663373/226498709-2c0ee12e-8e3d-45af-8d78-f64c4a11c004.png)
+![image](https://user-images.githubusercontent.com/90663373/226499343-8e31911e-3fd5-4a62-a258-35d77a244f8d.png)
 
 ![image](https://user-images.githubusercontent.com/90663373/226495688-894f3bdd-e91e-4f92-b04a-3d3d5aec6c0f.png)
 
