@@ -1,5 +1,9 @@
 # calculator-bmi
 
+![image](https://user-images.githubusercontent.com/90663373/226498552-a222884c-5c76-4528-983f-5a7d48c7a602.png)
+
+![image](https://user-images.githubusercontent.com/90663373/226498709-2c0ee12e-8e3d-45af-8d78-f64c4a11c004.png)
+
 ![image](https://user-images.githubusercontent.com/90663373/226495688-894f3bdd-e91e-4f92-b04a-3d3d5aec6c0f.png)
 
 ![image](https://user-images.githubusercontent.com/90663373/226495702-db213ad6-f3e5-4dc3-af3b-2fb97c63ea81.png)
